@@ -5,7 +5,7 @@ Welcome, this repo contains early work and documentation for my data analytics r
 ## 📌 EdTech Project (2025)
 *Role:* Data Analyst at Edtech Platform for Seamless Virtual Learning  
 *Deliverables here:*
-- [Proposed_Data_Points for Progress Tracking on the EdTech platform.pdf](./Proposed_Data_to_Track.pdf)
+- [Proposed Data Points for Progress Tracking on the EdTech platform.pdf](./Proposed_Data_to_track.pdf)
 - [MAIN DATA ANALYTIC TOOL FOR THE EDTECH PLATFORM.pdf](./Analytics_Tools_Plan.pdf)
 
 ---
